@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1467682273 source:c:\proyectos\aeronautica\main.cpp
+	<iostream>
+	"Problema_2_1.h"
+	"Unidades.h"
+
+1467674419 c:\proyectos\aeronautica\include\problema_2_1.h
+
+1467572645 source:c:\proyectos\aeronautica\src\problema_2_1.cpp
+	"Problema_2_1.h"
+
+1467674670 source:c:\proyectos\aeronautica\src\unidades.cpp
+	"Unidades.h"
+
+1467682708 c:\proyectos\aeronautica\include\unidades.h
+	<iostream>
+
+1467674445 source:c:\proyectos\aeronautica\src\ecuaciones.cpp
+	"Ecuaciones.h"
+
+1467674509 c:\proyectos\aeronautica\include\ecuaciones.h
+	"Unidades.h"
+
